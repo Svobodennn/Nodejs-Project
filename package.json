@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Svobodennn/Nodejs-Project/issues"
   },
-  "homepage": "https://github.com/Svobodennn/Nodejs-Project#readme"
+  "homepage": "https://github.com/Svobodennn/Nodejs-Project#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
